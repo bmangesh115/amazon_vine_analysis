@@ -10,7 +10,7 @@ The purpose is to analyze data set from the Amazon Vine program to determine if 
 4. Design a statistical study to compare vehicle performance against different manufacturers.
 
 ## Resources
-- Data Source: [Amazon Reviews Health and Personam Care]("https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Health_Personal_Care_v1_00.tsv.gz")
+- Data Source: [Amazon Reviews Health and Personal Care](/https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Health_Personal_Care_v1_00.tsv.gz)
 - Software: PySpark, Jupyter Notebook 4, Python 3.7.13, PostgreSQL12.11, pgAdmin4Visual Studio Code 1.68.1
 
 ## Results
@@ -45,7 +45,7 @@ The link to the Python Script for the data analysis.<br>
 
 <figure>
     <figcaption>Review ID table</figcaption>
-    <img src="/reveiw_id_table.png" width=2608 height=auto
+    <img src="/review_id_table.png" width=2608 height=auto
          alt="Review ID table">
 </figure> <br>
 
